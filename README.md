@@ -10,4 +10,4 @@
 
 这些平台专注于提供国产与麻豆系列的精品视频资源，类型丰富，更新频繁，用户可以根据喜好轻松查找影片。每个视频页面都提供影片的详细信息，包括时长、清晰度、演员等，支持高清播放，并可根据网络自动优化画质，保障流畅观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang4 ）</span>
